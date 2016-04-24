@@ -17,8 +17,10 @@ public class Conversations {
             "¿Puedes llamarme devuelta?",
             "Hola!",
             "No olvides comprar la leche a la vuelta",
-            "¿Haz terminado el proyecto?",
-            "¿Terminaste la aplicación?"
+            "¿Terminaste el proyecto?",
+            "¿Terminaste la aplicación?",
+            "Pasa al supermercado por favor",
+            "Llámame si puedes"
     };
 
     /**
